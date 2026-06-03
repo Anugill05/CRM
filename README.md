@@ -4,7 +4,7 @@ A production-ready CRM application for managing leads/customers through a sales 
 
 ## Live Demo
 
-> [Deploy link here after deployment]
+> [https://crm-xb8s.onrender.com/]
 
 ## Features
 
@@ -124,8 +124,8 @@ crm/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/lead-crm.git
-cd lead-crm
+git clone https://github.com/Anugill05/CRM
+cd CRM
 ```
 
 ### 2. Backend setup
@@ -215,8 +215,6 @@ node scripts/seed.js
 
 ## Screenshots
 
-> (Add screenshots after deployment)
-
-## License
-
-MIT
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
